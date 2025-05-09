@@ -7,5 +7,5 @@ Contains hacky implementations from scratch of:
 - Simluation of qbits and ability to manipulate like in a quantum computer
 - Basic quantum gates and circuits
 - Quantum communication protocols (Deusch Josza, Ekkert, BB84)
-- Quantum teleportation and supedense coding
+- Quantum teleportation and superdense coding
 - If I find the time I would like to also implement Grover and Shors algorithm

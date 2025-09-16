@@ -14,7 +14,7 @@ mod tests {
 
     use std::os::macos::raw::stat;
 
-    use nalgebra::{Matrix, Matrix2, Matrix4};
+    use nalgebra::{Matrix, Matrix2, Matrix3, Matrix4};
 
     use crate::module::entangled_particle_n;
 
